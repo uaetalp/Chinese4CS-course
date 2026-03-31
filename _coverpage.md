@@ -6,5 +6,5 @@
 - 分布式算力实践
 - 数据驱动决策
 
-[开始学习](#README)
-[教学大纲](#syllabus)
+[开始学习](README.md)
+[教学大纲](syllabus.md)
