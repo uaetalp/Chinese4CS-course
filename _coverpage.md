@@ -5,7 +5,7 @@
 
 - 核心词汇（Keywords）
 - 基本概念（Basic Concepts）
-- 常用表达（Common expressions）
+- 常用表达（Common Expressions）
 
 [开始学习](README.md)
 [教学大纲](syllabus.md)
