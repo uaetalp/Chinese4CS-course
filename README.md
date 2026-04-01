@@ -6,7 +6,7 @@
 
 
 
-# 计算机专业汉语
+# 计算机专业汉语（Chinese for Computer Science ）
 
 
 
